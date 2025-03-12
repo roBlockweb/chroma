@@ -50,6 +50,15 @@ npm run dev
 - Android Studio (for Android development)
 - JDK 11+
 
+### Web Development
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
 ### Android Build
 ```bash
 cd android
@@ -99,6 +108,13 @@ ChromaTrack Pro respects your privacy:
 - Internet access required only for ads (free version)
 - No data sharing with third parties
 
+## Release Information
+
+Version: 1.0.0
+- Initial release with core functionality
+- Support for three background colors
+- Three marker types with customizable properties
+
 ## Support
 
 For support, feature requests, or bug reports:
@@ -108,4 +124,3 @@ For support, feature requests, or bug reports:
 ## License
 
 © 2025 roBlock. All rights reserved.
-# chroma
